@@ -38,7 +38,7 @@ Dataset dapat diambil disini: <a href="https://www.kaggle.com/drgfreeman/rockpap
 </p>
   
   
-Terimakasih kepada dicoding telah mendapatkan Bintang 5:
+Terimakasih kepada dicoding yang telah memberikan Bintang 5:
 <p align="center">
 <a href='https://postimg.cc/dLM40L5j' target='_blank'><img src='https://i.postimg.cc/dLM40L5j/image-2020-11-01-14-49-21.png' border='0' alt='image-2020-11-01-14-49-21'/></a>
 </p>

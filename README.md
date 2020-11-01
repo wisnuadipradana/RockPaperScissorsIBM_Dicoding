@@ -21,7 +21,7 @@ Dataset dapat diambil disini: <a href="https://www.kaggle.com/drgfreeman/rockpap
 ## Hasil yang diperoleh dari Codingan tersebut sebagai berikut:
 - Plot Accuracy dan Loss dari Data Train dan Validation yang telah dibagi 60:40
 <p align="center">
-<a href="https://postimg.cc/nCCpnSwD" target="_blank"><img src="https://i.postimg.cc/nCCpnSwD/Plot-Acc-Loss.jpg" alt="Plot-Acc-Loss"/></a>
+<a href="https://postimg.cc/nCCpnSwD" target="_blank"><img src="https://i.postimg.cc/nCCpnSwD/Plot-Acc-Loss.jpg" alt="Plot-Acc-Loss" /></a>
 </p>
 
 - Accuracy dan Loss on data test

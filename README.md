@@ -16,3 +16,26 @@ Berikut contoh Dataset
   </p>  
 
 Dataset dapat diambil disini: <a href="https://www.kaggle.com/drgfreeman/rockpaperscissors" target="blank"><img src="https://img.shields.io/badge/Rock%20Paper%20Scissors-%2320BEFF.svg?&logo=kaggle&logoColor=white" >
+
+
+## Hasil yang diperoleh dari Codingan tersebut sebagai berikut:
+- Plot Accuracy dan Loss dari Data Train dan Validation yang telah dibagi 60:40
+<p align="center">
+<a href="https://postimg.cc/nCCpnSwD" target="_blank"><img src="https://i.postimg.cc/nCCpnSwD/Plot-Acc-Loss.jpg" alt="Plot-Acc-Loss"/></a>
+</p>
+
+- Accuracy dan Loss on data test
+<p align="center">
+<a href="https://postimg.cc/kDM7pgQw" target="_blank"><img src="https://i.postimg.cc/kDM7pgQw/Accand-Loss.jpg" alt="Accand-Loss"/></a>
+</p>
+
+- Hasil contoh Upload image on dataset
+<p align="center">
+<a href="https://postimg.cc/5jPfdWpJ" target="_blank"><img src="https://i.postimg.cc/5jPfdWpJ/Scissors.jpg" alt="Scissors"/></a>
+</p>
+  
+  
+Terimakasih kepada dicoding telah mendapatkan Bintang 5:
+<p align="center">
+<a href='https://postimg.cc/dLM40L5j' target='_blank'><img src='https://i.postimg.cc/dLM40L5j/image-2020-11-01-14-49-21.png' border='0' alt='image-2020-11-01-14-49-21'/></a>
+</p>

@@ -1,6 +1,9 @@
 # RockPaperScissorsIBM_Dicoding
 Image Classification about Rock, Paper and Scissors
 
+This dataset contains images of hand gestures from the Rock-Paper-Scissors game. The images were captured as part of a hobby project where I developped a Rock-Paper-Scissors game using computer vision and machine learning on the Raspberry Pi (https://github.com/DrGFreeman/rps-cv).
+
+
 Berikut contoh Dataset
 - Gambar Tangan
   <p align="center">

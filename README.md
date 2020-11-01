@@ -15,4 +15,4 @@ Berikut contoh Dataset
   <a href="https://postimg.cc/62mpBswy" target="_blank"><img src="https://i.postimg.cc/62mpBswy/3bk-C6-JAPog7x-X9-WO.png" alt="3bk-C6-JAPog7x-X9-WO"/></a>
   </p>  
 
-Dataset dapat diambil disini: <a href="https://www.kaggle.com/drgfreeman/rockpaperscissors" target="blank"><img src="https://img.shields.io/badge/Rock-Paper-Scissors-%2320BEFF.svg?&logo=kaggle&logoColor=white" >
+Dataset dapat diambil disini: <a href="https://www.kaggle.com/drgfreeman/rockpaperscissors" target="blank"><img src="https://img.shields.io/badge/Rock%20Paper%20Scissors-%2320BEFF.svg?&logo=kaggle&logoColor=white" >
